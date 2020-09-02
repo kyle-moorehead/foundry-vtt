@@ -1,0 +1,13 @@
+{
+    "name": "run-as-gm",
+    "title": "runAsGM",
+    "description": "Allows Player Users to run macros that modify the scene if they have been created by the GM.",
+    "author": "Kyle Moorehead",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion": "0.6.6",
+    "esmodules": [
+        "./run-as-gm.js"
+    ],
+    "socket": true
+}
